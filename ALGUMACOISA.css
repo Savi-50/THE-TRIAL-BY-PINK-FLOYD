@@ -1,0 +1,29 @@
+@font-face {
+    font-family:initial;
+    src: url(HelpMe.ttf);
+}
+body { background-image:url("THEWALLBACK.png");
+
+
+
+	
+  
+
+
+}
+
+
+
+
+body { color:rgba(255, 0, 0, 0.753); }
+body { text-align: center}   
+
+
+  
+p.thinice{ color: rgb(0, 0, 0); 
+font-family: 'initial'}
+
+@font-face {
+    font-family: 'initial';
+    src: url(floyd.TTF);
+}
